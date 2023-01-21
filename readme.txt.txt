@@ -1,2 +1,2 @@
-hello welcome to openAI
+hello welcome to chatGPT.
 new world of AI.
