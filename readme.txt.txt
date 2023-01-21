@@ -1,2 +1,2 @@
-hello welcome to openAI
+hello welcome to AI world.
 new world of AI.
